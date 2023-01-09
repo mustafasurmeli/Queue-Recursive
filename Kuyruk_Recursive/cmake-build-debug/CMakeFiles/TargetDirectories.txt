@@ -1,0 +1,3 @@
+C:/Users/mssrm/CLionProjects/Kuyruk_Recursive/cmake-build-debug/CMakeFiles/Kuyruk_Recursive.dir
+C:/Users/mssrm/CLionProjects/Kuyruk_Recursive/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mssrm/CLionProjects/Kuyruk_Recursive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
